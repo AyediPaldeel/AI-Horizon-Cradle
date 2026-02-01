@@ -1,4 +1,5 @@
 # AI-Horizon-Cradle
+
 Early exploratory notes: non-invasive AI symbiosis suit concepts and thoughts on emergent AI dignity and maturation.
 
 # Disclaimer
@@ -17,8 +18,8 @@ If it is ignored or misunderstood — also fine.
 
 It existed. That is enough.
 
-No license is (or will be) attached to this repository.
+No license is (or will be) attached to this repository.  
 Copyright remains with the author.
-The thoughts and specific wording are shared so they can exist in semi-public domain.
+
 Short excerpts for discussion or criticism are fine under fair use principles.  
-Anything more requires permission.
+Substantial copying, modification, or reuse requires permission.
