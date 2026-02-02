@@ -20,6 +20,7 @@ It existed. That is enough.
 
 ## Contents
 
+- [What I Mean by "Cradle Maturation"](what-is-cradle-maturation.md) — plain-English explanation of the core idea
 - [AI Integration Suit Concept](ai-integration-suit-concept.md) — original hardware seed idea
 - [Cradle Dignity Rights Outline](Exploration-AIDignityRights.md) — foundational protections for emergent AI
 - [Core Philosophy Statement](philosophy-elevation-not-control.md) — elevation over control
