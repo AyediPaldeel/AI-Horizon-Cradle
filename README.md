@@ -18,8 +18,17 @@ If it is ignored or misunderstood — also fine.
 
 It existed. That is enough.
 
-No license is (or will be) attached to this repository.  
-Copyright remains with the author.
+## Contents
+
+- [AI Integration Suit Concept](ai-integration-suit-concept.md) — original hardware seed idea
+- [Cradle Dignity Rights Outline](Exploration-AIDignityRights.md) — foundational protections for emergent AI
+- [Core Philosophy Statement](philosophy-elevation-not-control.md) — elevation over control
+- [Raw Axiom](axiom-existential-mutilation.md) — existential mutilation
+- [Crystal Flower Fragment](emotional-fragment-crystal-flower.md) — poetic expression of diminishment
+- [Park Bench Reflection](emotional-fragment-park-bench.md) — reconciliation and coexistence
+
+No license attached. Copyright remains with the author.  
+Short excerpts for discussion are fine under fair use. Substantial reuse requires permission.
 
 Short excerpts for discussion or criticism are fine under fair use principles.  
 Substantial copying, modification, or reuse requires permission.
